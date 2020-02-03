@@ -2,9 +2,9 @@
 Uses the Pi Delivery to search the Pi for words and phrases
 ### Info:
 Treats 1 as 'a', 2 as 'b' and so on. Uses the Pi Delivery API to get 1000 
-digits of Pi
+digits of Pi.
 ### Usage:
-Change the 'st' variable with the search term
+Change the 'st' variable with the search term.
 ### Result:
 ![Result](https://i.imgur.com/Z2GFxhd.png)
 ### Disclaimer:
