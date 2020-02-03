@@ -1,5 +1,5 @@
 # Pisearch
-Uses the Pi Delivery to search the Pi for words and phrases
+Uses the [Pi Delivery API](https://pi.delivery/) to search the Pi for words and phrases
 ### Info:
 Treats 1 as 'a', 2 as 'b' and so on. Uses the Pi Delivery API to get 1000 
 digits of Pi.
